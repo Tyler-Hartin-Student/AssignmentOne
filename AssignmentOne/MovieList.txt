@@ -1,0 +1,9 @@
+The Matrix 1999 136
+Inception 2010 148
+The Shawshank Redemption 1994 142
+The Dark Knight 2008 152
+Titanic 1997 195
+Finding Nemo 2003 100
+Shrek 2001 90
+Toy Story 1995 81
+Number of Movies: 8
